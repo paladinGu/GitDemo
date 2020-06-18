@@ -19,7 +19,7 @@
         <spring-cloud.version>Hoxton.SR4</spring-cloud.version>
     </properties>
 
-
+<!--22222222?-->
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
